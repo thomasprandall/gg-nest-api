@@ -15,6 +15,6 @@ Some things I would like to circle back to here as time allows:
 * Create real DTOs to support future CUD operations (R being basically complete)
 * Expand test coverage (translation: write any tests at all)
 
-I pulled data from (here)[https://github.com/nflverse/nfldata/tree/master/data]. You can utilize that to build your own local database and try to run if that is your jam.
+I pulled data from https://github.com/nflverse/nfldata/tree/master/data. You can utilize that to build your own local database and try to run if that is your jam.
 
 For development I run `npm run start`
